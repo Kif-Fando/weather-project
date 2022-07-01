@@ -1,0 +1,1 @@
+Detects your current location and showing current weather.
